@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+D:\Nueva carpeta (3)\PSL PRAXIS\Psl repositorio\QA-Homework\.metadata\.plugins\org.eclipse.jdt.core
-3380789556.index
