@@ -449,3 +449,9 @@ Contains: Missing org.beanshell:bsh:jar:javadoc:2.0b4
 !MESSAGE Could not resolve artifact org.beanshell:bsh:jar:javadoc:2.0b4
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2018-09-16 11:52:15.549
 !MESSAGE Missing org.beanshell:bsh:jar:javadoc:2.0b4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-16 11:55:55.066
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-16 11:55:55.068
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
